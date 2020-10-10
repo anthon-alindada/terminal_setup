@@ -90,6 +90,7 @@ NERDTree toggle ```Ctrl+n```
 New Tab ```Ctrl+t```
 
 ## Etc
+* Install [Fuzzy Finder](https://github.com/junegunn/fzf)
 * Install [NerdFonts](https://github.com/ryanoasis/nerd-fonts)
 * Use ```MesloLGS NF Regular``` font
 * Add ```export TERM=xterm-256color```
