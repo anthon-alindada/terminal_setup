@@ -93,8 +93,8 @@ New Tab ```Ctrl+t```
 * Install [NerdFonts](https://github.com/ryanoasis/nerd-fonts)
 * Use ```MesloLGS NF Regular``` font
 * Add ```export TERM=xterm-256color```
-* Change terminal background to #1A1A1A
+* Change terminal background to ```#1A1A1A```
 * Change ayu theme colors
-    * #1d2026 to #1A1A1A
-    * #151A1E to #262626
-    * #14191F to #1E1E1E
+    * ```#1d2026``` to ```#1A1A1A```
+    * ```#151A1E``` to ```#262626```
+    * ```#14191F``` to ```#1E1E1E```
