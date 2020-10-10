@@ -9,22 +9,22 @@ My terminal configuration and setup for development
 ## Zsh
 Zsh configurations (Minimal)
 
-### Plugins
+#### Plugins
 * [OhMyZsh](https://ohmyz.sh/): Zsh configuration manager
 * [powerlevel10k](https://github.com/romkatv/powerlevel10k): Zsh theme
 
-### Other Notes
+#### Other Notes
 * Remove git status in ```~/.p10k.zsh``` to have more cleaner look in terminal
 * Copy configs in ```~/.zshrc```
 
 ## Tmux
 Tmux configurations, plugins, and key mappings
 
-### Plugins
+#### Plugins
 * [tmp](https://github.com/tmux-plugins/tpm): Tmux plugin manager
 * [tmux-power](https://github.com/wfxr/tmux-power): Tmux powerline theme
 
-### Key Mappings
+#### Key Mappings
 The prefix is ``` ` ```
 
 Panes navigation
@@ -43,14 +43,14 @@ Split panes
 * Split pane horizontally ```|``` or ```\```
 * Split pane vertically ```-``` or ```_```
 
-### Other Notes
+#### Other Notes
 * Make sure you use version 3 or higher
 * Copy configs in ```~/.tmux.conf```
 
 ## Vim
 Vim configurations, plugins, and key mappings
 
-### Plugins
+#### Plugins
 * [ack](https://github.com/mileszs/ack.vim): String search engine
 * [ale](https://github.com/dense-analysis/ale): Lint engine
 * [ayu-vim](https://github.com/ayu-theme/ayu-vim): Theme
@@ -66,7 +66,7 @@ Vim configurations, plugins, and key mappings
 * [vim-pydocstring](https://github.com/heavenshell/vim-pydocstring): Python docstring
 * [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe): Autocomplete
 
-### Key Mappings
+#### Key Mappings
 The leader is ```,```
 
 Remap cursor navigation
