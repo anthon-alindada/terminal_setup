@@ -1,6 +1,9 @@
 # Terminal (Dev) Setup
 My terminal configuration and setup for development
 
+## Screenshot
+![Screenshot](terminal_screenshot.png?raw=true "Optional Title")
+
 ## Main tools used
 * zsh
 * tmux
